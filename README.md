@@ -18,6 +18,7 @@ Our proposed solution to the problem:
 - In addition, add manual buttons to allow the user to choose how much water they want to dispense. 
 
 Screenshot of Prototpye:
+
 ![image](https://user-images.githubusercontent.com/66892906/205963501-f574b779-a537-4968-9f02-0ba1aa1c7712.png)
 
 
