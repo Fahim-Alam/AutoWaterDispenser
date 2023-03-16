@@ -1,5 +1,5 @@
 # AutoWaterDispensers
-PROJECT: Inventing a New Product/System to Help Combat Water Waste.
+ENGR 0011 Semester PROJECT: Inventing a New Product/System to Help Combat Water Waste.
 ENGR 0011: The algorithm(s) implementation of the remodeled sensor for current automatic water dispensers.
 
 Problem(s) we observed: 
